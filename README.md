@@ -6,7 +6,7 @@ This project serves as a personal profile card that contains links to social pla
 ---
 
 ## ✨ Features
-- Clean and minimal UI 🎨
+- Clean and minimal UI .🎨
 - Responsive design 📱 (works on mobile and desktop)..
 - Profile avatar with hover effect 👤
 - Social media links with Font Awesome icons. 🔗
