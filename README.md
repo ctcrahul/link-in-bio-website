@@ -9,7 +9,7 @@ This project serves as a personal profile card that contains links to social pla
 - Clean and minimal UI 🎨
 - Responsive design 📱 (works on mobile and desktop)
 - Profile avatar with hover effect 👤
-- Social media links with Font Awesome icons 🔗
+- Social media links with Font Awesome icons. 🔗
 - Gradient background for modern look 🌈
 
 ---
