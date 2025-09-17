@@ -39,7 +39,8 @@ link-in-bio-website/
 ├── style.css # Stylesheet
 └── images/ # Folder containing profile image(s)
 
----
+```
+
 
 
 
