@@ -33,3 +33,8 @@ This project serves as a personal profile card that contains links to social pla
 ---
 
 ## 📂 Project Structure
+
+link-in-bio-website/
+├── index.html # Main HTML file
+├── style.css # Stylesheet
+└── images/ # Folder containing profile image(s)
