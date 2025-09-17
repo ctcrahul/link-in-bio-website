@@ -38,3 +38,20 @@ link-in-bio-website/
 ├── index.html # Main HTML file
 ├── style.css # Stylesheet
 └── images/ # Folder containing profile image(s)
+
+---
+
+
+
+
+---
+
+## 📧 Contact
+👤 **Rahul Singh**  
+📩 Email: [rahulsingh51775177@gmail.com](mailto:rahulsingh51775177@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/rahulsingh51775177/)  
+🔗 [GitHub](https://github.com/ctcrahul)
+
+---
+⭐ If you like this project, consider giving it a **star** on GitHub!
+
